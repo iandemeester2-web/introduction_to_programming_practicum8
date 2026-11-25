@@ -10,10 +10,6 @@ Een eenvoudige Python rekenmachinemodule (`calculator.py`) met een uitvoeringssc
 * **Student A** – Repository-beheerder, `multiply` feature branch, code reviews en conflictresolutie.
 * **Student B** – Partner, `subtract` feature branch, code reviews en conflictresolutie.
 
-## Installatie en Gebruik
-
-### Installatie
-
 ## Reflection
 
 1. **Why should developers use feature branches?**
