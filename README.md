@@ -1,4 +1,4 @@
-# Rekenmachine Practicum (GitHub Samenwerking)
+# Rekenmachine Practicum (GitHub Samenwerking) Door alleen Ian
 
 ## Beschrijving
 
