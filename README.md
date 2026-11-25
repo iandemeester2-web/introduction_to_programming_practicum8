@@ -14,7 +14,13 @@ Een eenvoudige Python rekenmachinemodule (`calculator.py`) met een uitvoeringssc
 
 ### Installatie
 
-1. Open je WSL-terminal en ga naar de juiste map:
-   ```bash
-   mkdir -p ~/dev/introduction_to_programming/practicum8
-   cd ~/dev/introduction_to_programming/practicum8
+## Reflection
+
+1. **Why should developers use feature branches?**
+   Om nieuwe code te isoleren van main, zodat de hoofdversie altijd stabiel en werkend blijft terwijl iedereen apart kan ontwikkelen.
+2. **What caused the merge conflict?**
+   Beide partners pasten tegelijk dezelfde regels aan op aparte branches, waardoor Git na de eerste merge niet automatisch kon kiezen welke versie behouden moest blijven.
+3. **How did GitHub help you resolve it?**
+   GitHub blokkeerde de merge automatisch en toonde het conflict, zodat we lokaal de conflictmarkers konden oplossen en beide wijzigingen veilig konden samenvoegen.
+4. **Why are pull requests useful in teams?**
+   Ze bieden een controlemoment voor code reviews om fouten vroeg op te sporen, wijzigingen te bespreken en code veilig in main te integreren.
